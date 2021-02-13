@@ -7,3 +7,4 @@ Then remove the file App.test.js, App.css, logo.svg ,serviceWorker.js ,setupTest
 Creat a folder in src name components in that folder creat FilterButton.js,from.js and Todo.js.
 Then add the program to respective file name.
 Run the project.
+Image/screenshort are in Issues
